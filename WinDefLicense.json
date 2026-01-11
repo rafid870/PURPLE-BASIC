@@ -1,1 +1,15 @@
-A
+{
+  "users": [
+    {
+      "username": "salaar",
+      "password": "4444",
+      "hwid": "6e81a8fea6afa15c3ad9dc8e038a82b07b4a0d00f8314ad67d9a23e3ed5928da",
+      "apps": [
+        {
+          "appNo": 1234,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        }
+      ]
+    }
+  ]
+}
